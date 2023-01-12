@@ -1,0 +1,11 @@
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe.config
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.pdb
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.AssemblyReference.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Form1.resources
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Properties.Resources.resources
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.GenerateResource.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.CoreCompileInputs.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.exe
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Car racing game\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.pdb
