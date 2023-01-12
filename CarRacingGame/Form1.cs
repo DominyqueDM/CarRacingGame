@@ -112,14 +112,28 @@ namespace CarRacingGame
                 trophy.Image = Properties.Resources.bronze;
             }
 
-            if (score > 500 && score < 2000)
+            if (score > 500 && score < 800)
+            {
+                trophy.Image = Properties.Resources.silver;
+                roadSpeed = 17;
+                trafficSpeed = 18;
+            }
+
+            if (score >800 && score < 1000)
             {
                 trophy.Image = Properties.Resources.silver;
                 roadSpeed = 20;
-                trafficSpeed = 22;
+                trafficSpeed = 21;
             }
 
-            if (score >2000)
+            if (score >1000 && score < 1500)
+            {
+                trophy.Image = Properties.Resources.silver;
+                roadSpeed = 22;
+                trafficSpeed = 23;
+            }
+
+            if (score >1500)
             {
                 trophy.Image = Properties.Resources.gold;
                 trafficSpeed = 27;
